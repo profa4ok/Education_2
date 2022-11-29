@@ -11,6 +11,7 @@
 		182EE4C929369932003FF607 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182EE4C829369932003FF607 /* ContentView.swift */; };
 		182EE4CB29369933003FF607 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 182EE4CA29369933003FF607 /* Assets.xcassets */; };
 		182EE4CE29369933003FF607 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 182EE4CD29369933003FF607 /* Preview Assets.xcassets */; };
+		182EE4D5293699DE003FF607 /* OnLongPressGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182EE4D4293699DE003FF607 /* OnLongPressGesture.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		182EE4C829369932003FF607 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		182EE4CA29369933003FF607 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		182EE4CD29369933003FF607 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		182EE4D4293699DE003FF607 /* OnLongPressGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnLongPressGesture.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				182EE4C629369932003FF607 /* Education_2App.swift */,
 				182EE4C829369932003FF607 /* ContentView.swift */,
+				182EE4D4293699DE003FF607 /* OnLongPressGesture.swift */,
 				182EE4CA29369933003FF607 /* Assets.xcassets */,
 				182EE4CC29369933003FF607 /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				182EE4C929369932003FF607 /* ContentView.swift in Sources */,
 				182EE4C729369932003FF607 /* Education_2App.swift in Sources */,
+				182EE4D5293699DE003FF607 /* OnLongPressGesture.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
