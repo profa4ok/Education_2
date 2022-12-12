@@ -11,7 +11,7 @@ import SwiftUI
 struct Education_2App: App {
     var body: some Scene {
         WindowGroup {
-            OnMagnificationGesture()
+            OnDragGesture()
         }
     }
 }
